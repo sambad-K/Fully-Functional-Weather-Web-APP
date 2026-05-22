@@ -2,7 +2,7 @@
 
 A full-stack weather application built using Django REST Framework (backend) and React (frontend). It fetches real-time weather data from OpenWeather API based on city input.
 
-## 🚀 Features
+##  Features
 - Search weather by city name
 - Real-time weather data
 - Temperature in Celsius
@@ -11,13 +11,13 @@ A full-stack weather application built using Django REST Framework (backend) and
 - React frontend interface
 - Secure API key management using .env
 
-## 🛠️ Tech Stack
+## Tech Stack
 Backend: Django, Django REST Framework, Requests, python-decouple  
 Frontend: React.js, Fetch/Axios, HTML, CSS  
 API: OpenWeather API
 
 
-## ⚙️ Backend Setup (Django)
+##  Backend Setup (Django)
 
 git clone https://github.com/your-username/weather-app.git  
 cd weather-app/backend  
@@ -40,7 +40,7 @@ python manage.py runserver
 
 Backend runs at: http://127.0.0.1:8000/
 
-## 🎨 Frontend Setup (React)
+##  Frontend Setup (React)
 
 cd ../frontend  
 npm install  
@@ -65,18 +65,18 @@ Response:
   "humidity": 60
 }
 
-## 🔐 Environment Variables
+##  Environment Variables
 API_KEY=your_openweather_api_key
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 - 7-day forecast
 - Location-based weather
 - Search history
 - UI improvements
 - Deployment (Render + Vercel)
 
-## 👨‍💻 Author
+##  Author
 Sambad Khatiwada  
 Computer Engineering Student | Backend Developer
 
