@@ -68,10 +68,6 @@ Response:
 ## 🔐 Environment Variables
 API_KEY=your_openweather_api_key
 
-## 📌 Notes
-- Do not upload .env file to GitHub
-- Enable CORS for frontend-backend connection
-- Keep API keys secret
 
 ## 🚀 Future Improvements
 - 7-day forecast
@@ -81,8 +77,8 @@ API_KEY=your_openweather_api_key
 - Deployment (Render + Vercel)
 
 ## 👨‍💻 Author
-Your Name  
+Sambad Khatiwada  
 Computer Engineering Student | Backend Developer
 
-## ⭐ Support
-If you like this project, give it a star
+Email: sambadkhatiwada939@gmail.com
+Linkedin: https://www.linkedin.com/in/sambad-khatiwada/
