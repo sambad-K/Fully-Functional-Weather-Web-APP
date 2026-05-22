@@ -16,30 +16,6 @@ Backend: Django, Django REST Framework, Requests, python-decouple
 Frontend: React.js, Fetch/Axios, HTML, CSS  
 API: OpenWeather API
 
-## 📁 Project Structure
-weather-app/
-├── backend/
-│   ├── manage.py
-│   ├── db.sqlite3
-│   ├── .env
-│   ├── requirements.txt
-│   ├── backend/
-│   │   ├── settings.py
-│   │   ├── urls.py
-│   │   └── wsgi.py
-│   └── app/
-│       ├── views.py
-│       ├── urls.py
-│       ├── models.py
-│       └── serializers.py
-├── frontend/
-│   ├── package.json
-│   ├── public/
-│   └── src/
-│       ├── App.js
-│       ├── index.js
-│       └── components/
-└── README.md
 
 ## ⚙️ Backend Setup (Django)
 
